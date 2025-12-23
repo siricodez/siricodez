@@ -9,7 +9,7 @@
 ---
 
 ### 💼 Tech Stack
-- **Languages**: Python 🐍, C++, HTML, CSS, JavaScript
+- **Languages**: Python , C++, HTML, CSS, JavaScript
 - **Tools**: Git & GitHub, VS Code, Figma, Canva
 
 
