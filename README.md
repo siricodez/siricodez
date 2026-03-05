@@ -8,7 +8,6 @@ Building things with Java & Python | Open to internships & open source
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE (AI/ML) @ VIT-AP University
-- 💡 Currently building: **Multiplayer Chess over TCP Sockets** in Java
 - 🌱 Exploring: Data Structures & Algorithms, System Design, AI/ML
 - 🤝 VP @ Women Innovators Network — organizing tech events & workshops
 - 📬 Open to: Internships, Open Source Contributions, Collaborations
@@ -25,18 +24,6 @@ Building things with Java & Python | Open to internships & open source
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Concepts:** OOP · Data Structures & Algorithms · DBMS · Software Engineering
-
----
-
-## 📌 Featured Projects
-
-### ♟️ [Multiplayer Chess — Java TCP Sockets](https://github.com/siricodez/Multiplayer-Chess-Java)
-Real-time 2-player Chess over a network built from scratch in Java.  
-`Java` `TCP Sockets` `Multithreading` `OOP` `Client-Server Architecture`
-
-### 📊 [DSA Problem Tracker](https://github.com/siricodez/DSA-Problem-Tracker)
-Console-based Java app to track DSA practice with topic-wise progress.  
-`Java` `OOP` `ArrayList` `File I/O`
 
 ---
 
