@@ -1,6 +1,6 @@
-# Hey, I'm Sirivalli 👋
+# Hey, I'm Sirivalli 
 
-Computer Science (AI/ML) student at VIT-AP | 2nd Year  
+Computer Science (AI/ML) student at VIT-AP @ 2028 |  
 Building things with Java & Python | Open to internships & open source
 
 ---
